@@ -1,4 +1,4 @@
-﻿string[] array1 = new string[5] {"123", "23", "hello", "world", "res"};
+﻿string[] array1 = new string[6] {"-2", "23", "hello", "world", "map","END"};
 
 string[] array2 = new string[array1.Length];
 
